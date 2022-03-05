@@ -40,7 +40,7 @@ async def start(bot, message):
     else:
         buttons = [
             [
-                InlineKeyboardButton('Updates Channel 🗣', url='https://t.me/szteambots'),
+                InlineKeyboardButton('Updates Channel 🗣', url='https://t.me/Oxyver_Updates'),
                 InlineKeyboardButton('Go Inline 🎭', switch_inline_query=''),
             ],
             [
