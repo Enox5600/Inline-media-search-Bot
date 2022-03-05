@@ -54,14 +54,14 @@ You can start searching by the "Search Mod 🔎" button below 😊
 """
 
 default_share_button_text = """
-Mod app  Search Bot 🇱🇰
+Mod app  Search Bot 🇮🇳
 
 Here you can find any media file by searching its name 😊
 
 Bot : {username} 🤖
-Support Group : @slbotzone  🇱🇰
-Updates Channel: @sl_bot_zone 🇱🇰
-Developper : @supunma🇱🇰
+Support Group : @Oxyver_Support  🇮🇳
+Updates Channel: @Oxyver_Updates 🇮🇳
+Developper : @Oxyver_Owner 🇮🇳
 """
 
 START_MSG = environ.get('START_MSG', default_start_massege)
