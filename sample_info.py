@@ -32,4 +32,4 @@ You can start searching by the "Search Media 🔎
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
-INVITE_MSG = 'You cant use this bot untill you join our bot🙁 So please join our Updates Channel 🇱🇰'
+INVITE_MSG = 'You cant use this bot untill you join our bot🙁 So please join our Updates Channel 🇮🇳'
